@@ -1,0 +1,4 @@
+#Thu Sep 19 12:58:27 IDT 2019
+base.0=/Users/moshedeitsch/AndroidStudioProjects/world_time/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
